@@ -1,0 +1,13 @@
+# Rahasia
+.env
+env
+.envo
+envo
+.envoy
+envoy
+
+# Sampah Python & Buildozer
+__pycache__/
+*.pyc
+.buildozer/
+bin/
